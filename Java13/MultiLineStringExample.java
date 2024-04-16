@@ -43,3 +43,17 @@ public class MultiLineStringExample {
         "</html>";
   }
 }
+/*Output:
+<html>
+    <body>
+        <p>Hello, World</p>
+    </body>
+</html>
+
+SELECT *
+FROM users
+WHERE id = 1
+
+Hello, John
+How are you?
+*/
